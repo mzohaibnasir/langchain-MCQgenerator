@@ -1,0 +1,23 @@
+openai
+langchain
+streamlit
+python-dotenv
+PyPDF2
+
+-e .  # for local pkgs
+
+
+
+# """
+
+# to install python pkgs you can you
+# `pip install -r requirements.txt`
+# but to installl local pkgs into env
+# 1. you run install this setup.py as `python setup.py`
+# or 
+# 2. pip install -e .  
+
+
+
+
+# """
