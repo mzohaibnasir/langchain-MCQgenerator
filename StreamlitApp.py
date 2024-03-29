@@ -12,7 +12,7 @@ from src.mcqgenerator.MCQGenerator import generate_evaluate_chain
 from langchain_community.callbacks import get_openai_callback
 
 
-with open("/home/zohaib/GenAI/Response.json", "r") as f:
+with open("mzohaibnasir/langchain-MCQgenerator/Response.json", "r") as f:
     RESPONSE_JSON = json.load(f)
     # print(RESPONSE_JSON)
 

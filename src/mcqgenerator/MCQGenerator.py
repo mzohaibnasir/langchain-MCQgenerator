@@ -134,7 +134,7 @@ generate_evaluate_chain = SequentialChain(
 
 # 5. Getting data
 
-file_path = f"/home/zohaib/GenAI/data.txt"
+file_path = f"mzohaibnasir/langchain-MCQgenerator/data.txt"
 # print(file_path)
 
 with open(file_path, "r") as file:
