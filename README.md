@@ -1,0 +1,1 @@
+A portfolio project leveraging Langchain and OpenAI to produce multiple-choice questions (MCQs) from provided text inputs. This system offers control over parameters such as MCQ complexity, quantity, and subject. Additionally, the generated quiz undergoes evaluation by another Language Model (LLM) chain for further scrutiny."
